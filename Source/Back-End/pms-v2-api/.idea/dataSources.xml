@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="PMS-V2" uuid="71de8dce-5907-414e-8214-d1665b625644">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/pms_v2_api</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="Asia/Dhaka" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="pms_v2_fresh@localhost" uuid="fdd9b897-6af4-43c7-a286-726da0d6128d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/pms_v2_fresh</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="pms_v2_live@localhost" uuid="c5444235-b062-478d-8e2d-a602d04c2ee0">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/pms_v2_live</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="Asia/Dhaka" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>

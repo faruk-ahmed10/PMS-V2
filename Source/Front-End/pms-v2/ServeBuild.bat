@@ -1,0 +1,1 @@
+CMD /c serve -s build

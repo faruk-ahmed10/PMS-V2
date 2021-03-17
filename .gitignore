@@ -1,0 +1,5 @@
+/Deployment
+/Source/Front-End/pms-v2/.gitignore
+/Source/Front-End/pms-v2/public/app.config.js
+/Source/Back-End/pms-v2-api/.gitignore
+/Source/Front-End/pms-v2/.eslintcache

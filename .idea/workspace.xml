@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="709337e8-2da2-4040-99eb-690dd2f87ac0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Back-End/pms-v2-api/app/Http/Controllers/BalanceSheet/BalanceSheetController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Back-End/pms-v2-api/app/Http/Controllers/BalanceSheet/BalanceSheetController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Back-End/pms-v2-api/database/migrations/2021_01_11_034511_balance_sheets.php" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Back-End/pms-v2-api/database/migrations/2021_01_11_034511_balance_sheets.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nawhTPcBR2KqYn1hOuJQHwdjNx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\workspace\www\pms-v2\Source\Front-End\pms-v2\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="709337e8-2da2-4040-99eb-690dd2f87ac0" name="Default Changelist" comment="" />
+      <created>1611641677855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611641677855</updated>
+      <workItem from="1611641694794" duration="1287000" />
+      <workItem from="1611733719463" duration="617000" />
+      <workItem from="1611983407215" duration="598000" />
+      <workItem from="1612002411548" duration="600000" />
+      <workItem from="1612070709953" duration="616000" />
+      <workItem from="1612152304656" duration="9358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
